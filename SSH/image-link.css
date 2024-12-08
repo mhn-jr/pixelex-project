@@ -1,0 +1,28 @@
+html{background-color: #8594b4;}
+
+.Contact{
+   width: 50%;
+   margin-left: 25%;
+   margin-top: 100px;
+   text-align: center;
+}
+h1{background-color: lightsteelblue;
+font-size: xx-large;}
+p{
+    background-color: lightsteelblue;
+    font-size: xx-large;
+}
+#a{
+    width:100%;
+    border: 5px solid #576074;
+    border-bottom: 20px solid #576074;
+    box-shadow: 1px 1px 20px white;
+    border-radius: 350px 150px 250px 150px;
+}
+h1{
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #8594b4;
+}
+

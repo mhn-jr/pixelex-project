@@ -1,0 +1,125 @@
+
+*{text-align: center;}
+
+html{
+    background-color:#8594b4 ;
+}
+
+#Coming{
+    background-color: rgb(65, 65, 100);
+color: blanchedalmond;
+}
+#Coming{ font-style: oblique;
+    border: 4px solid rgb(55, 62, 68);
+
+}
+
+#M {
+    color: aliceblue;
+}
+
+footer {
+    font-size: 25pt;
+}
+
+#We{
+   color:lightsteelblue ;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#We{font-weight: bold;
+}
+
+#my {
+    font-size:250px ;
+    background-color:lightsteelblue ;
+    font-weight: bold;
+    font-family:cursive;
+    color:#8594b4;
+}
+#my:hover {
+scale: 1.2;
+}
+
+.matn1{
+    color: rgba(0, 0, 0, 0.452);
+}
+#img{
+    border: 8px solid rgb(22, 22, 24); 
+    box-shadow: 2px 2px 40px white; 
+    border-radius: 70px 80px 50px 150px;  
+    width: 800px;
+    height: 500px;
+}
+
+#img {
+    filter: grayscale(100%);
+}
+
+#img:hover {
+    filter: grayscale(0%);
+}
+.menu{font-size: 25px
+;font-weight: bold;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: lightsteelblue;
+background-color: #41425c;
+}
+
+.menu:hover{
+    box-shadow: 10px 10px 10px lightsteelblue,0 1px 3px rgba(0, 0, 0, 0.3);
+    scale: 1.2;
+   }
+
+   .menu {
+    display: inline-block;
+    padding: 7px 30px;
+    background-color: #41425c;
+    color:#8594b4;
+    text-decoration: none;
+    border-radius: 0.2em;
+    border-bottom: 2px solid lightsteelblue;
+    box-shadow: 2px 2px 12px white;
+}
+
+.menu:hover {
+    background-color: lightsteelblue;
+    border-bottom-color: #41425c;
+}
+
+.q:hover {
+    scale: 1.3;
+}
+
+#coming:hover {
+   rotate: 20deg;
+}
+
+#We {
+    background: linear-gradient(90deg,#ff00c3,#00ffff);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#Coming {
+    color: #8594b4;
+    text-shadow: 0 0 10PX cyan;
+    text-shadow: 0 0 20PX cyan;
+    text-shadow: 0 0 40PX cyan;
+    text-shadow: 0 0 80PX cyan;
+}
+
+#img:hover {
+    transition: 2s ease;
+    transform: rotate(30deg);
+}
+
+.sp {
+    text-transform: uppercase;
+    color: aliceblue;
+    background: linear-gradient(90deg,#ff00c3,#00ffff);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
